@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">220.226.210.28</domain>
+        <domain includeSubdomains="true">customerapproval.marutisuzuki.com</domain>
+        <domain includeSubdomains="true">104.211.200.64</domain>
+        <domain includeSubdomains="true">vinwebappqa.azurewebsites.net</domain>
+        <domain includeSubdomains="true">vinwebappprod.azurewebsites.net</domain>
+    </domain-config>
+</network-security-config>

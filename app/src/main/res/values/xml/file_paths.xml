@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="my_images" path="Android/data/in.mtab.android.marutisuzuki/files/Pictures" />
+    <external-path name="my_videos" path="Android/data/in.mtab.android.marutisuzuki/files/Movies/"/>
+    <external-path name="Mtab_audioFile" path="."/>
+    <root-path name="sdcard1" path="." />
+    <external-path name="my_jobcard_pdf" path="Android/data/in.mtab.android.marutisuzuki/files" />
+    <!--<external-path name="external_files" path="."/>-->
+</paths>
